@@ -51,7 +51,7 @@ A Xray backend framework that can easily support many panels.
 
 ## 软件安装
 
-### 一键安装
+### 一键安装 自动重定向至最新上游Fork而非本存储库，本存储库仅作为存档！！！！！
 ```
 bash <(curl -Ls https://raw.githubusercontents.com/RainThings/XrayR-script/master/install.sh)
 ```
